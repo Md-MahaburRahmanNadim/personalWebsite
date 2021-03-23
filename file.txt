@@ -1,0 +1,8 @@
+to create a file we use (touch fileName)
+to open file in command line we use (vim fileName)
+to edit file we have to prease (i) for insert mode
+to out of editing mode to command line mode we have to prase (esc) button
+to exit from this file with saving we use (shift + ;) and than we saw a pup up in the left hand bottn side conear than we have to put (wq)
+if we want to exit without saving the changes of our file we wright (shift + ;) than (q) for only quit 
+to do out of the vim editor mode we have to go on command mode by preasing (esc) button
+just for dumostration that when we prease only (q) than the next line from this will be dissappeir
