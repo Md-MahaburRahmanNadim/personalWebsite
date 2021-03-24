@@ -4,7 +4,8 @@
   box-sizing: border-box;
 }
 
-html, body {
+html,
+body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -25,7 +26,7 @@ header {
 }
 
 header h2 {
-  color: #FFFFFF;
+  color: #ffffff;
   font-size: 3em;
   font-weight: normal;
 }
@@ -62,17 +63,17 @@ header .social-nav {
 
 .social-nav .sn-twitter {
   background: url('./images/twitter.svg') no-repeat 50% 50%;
-  background-color: #1DA1F2;
+  background-color: #1da1f2;
 }
 
 .social-nav .sn-instagram {
   background: url('./images/instagram.svg') no-repeat 50% 50%;
-  background-color: #E1306C;
+  background-color: #e1306c;
 }
 
-.social-nav .sn-website{
+.social-nav .sn-website {
   background: url('./images/globe.svg') no-repeat 50% 50%;
-  background-color: #77A8B1;
+  background-color: #77a8b1;
 }
 
 section.about {
@@ -84,7 +85,6 @@ section.about p {
 }
 
 .projects {
-  display: flex;
   justify-content: space-evenly;
   flex-wrap: wrap;
 }
@@ -98,7 +98,7 @@ section.about p {
 
 .project {
   display: block;
-  width: 286px;
+  width: 100%;
   background: red;
   margin-bottom: 20px;
   height: 200px;
